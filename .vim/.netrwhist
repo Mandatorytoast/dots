@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/zoey/.cache'
+let g:netrw_dirhist_2='/etc'
+let g:netrw_dirhist_3='/etc/xdg'
+let g:netrw_dirhist_4='/home/zoey/.config/sxhkd'
+let g:netrw_dirhist_5='/home/zoey/.config/bspwm'
+let g:netrw_dirhist_6='/home/zoey/.config/gtk-3.0'
+let g:netrw_dirhist_7='/home/zoey/.config/termite'
