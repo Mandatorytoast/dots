@@ -9,7 +9,7 @@
 #░ ░          ░ ░      ░  ░    ░ ░     ░           ░  
 #░                                                    
 [colors]
-background = #151515
+background = #cc121212
 color1 = #e84f4f
 color2 = #b8d68c
 color3 = #e1aa5d
@@ -52,7 +52,7 @@ background = ${colors.background}
 foreground = ${colors.foreground}
 
 border-bottom-size = 3
-border-bottom-color = ${colors.foreground}
+border-bottom-color = #424242
 
 
 wm-restack = bspwm
@@ -60,6 +60,7 @@ wm-restack = bspwm
 padding-right = 1
 
 font-0 = dina:pixelsize=10;1
+font-1 = Symbols Nerd Font:pixelsize=14;1
 
 
 
@@ -69,8 +70,8 @@ font-0 = dina:pixelsize=10;1
 #▒▓█    ▄ ▒██░    ▒██░  ██▒▒▓█    ▄ ▓███▄░ 
 #▒▓▓▄ ▄██▒▒██░    ▒██   ██░▒▓▓▄ ▄██▒▓██ █▄ 
 #▒ ▓███▀ ░░██████▒░ ████▓▒░▒ ▓███▀ ░▒██▒ █▄
-#░ ░▒ ▒  ░░ ▒░▓  ░░ ▒░▒░▒░ ░ ░▒ ▒  ░▒ ▒▒ ▓▒
-#  ░  ▒   ░ ░ ▒  ░  ░ ▒ ▒░   ░  ▒   ░ ░▒ ▒░
+#░ ░▒ ▒  ░░ ▒░▓  ░░ ▒░▒░▒░ ░ ░▒ ▒  ░▒ ▒▒ ▓
+#  ░  ▒   ░ ░ ▒  ░  ░ ▒ ▒░   ░  ▒   ░ ░▒ ▒
 #░          ░ ░   ░ ░ ░ ▒  ░        ░ ░░ ░ 
 #░ ░          ░  ░    ░ ░  ░ ░      ░  ░   
 #░                         ░               
