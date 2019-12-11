@@ -5,11 +5,11 @@
 
 # terminal emulator
 alt + Return
-	termite
+	st
 
 # program launcher
 alt + @space
-	dmenu_run -fn 'dina:pixelsize=10' -p 'RUN' -dim 0.6 -dc '#AAAAAA' -l 15 -h 30 -w 960 -x 480 -y 270 -nb '#121212' -nf '#eeeeee' -sb '#eeeeee' -sf '#121212'
+	dmenu_run -fn 'cherry:pixelsize=11' -p 'RUN' -l 35  -h 25 -nb '#121212' -nf '#eeeeee' -sb '#eeeeee' -sf '#121212' -w 300 -dim 0.8
 
 # make sxhkd reload its configuration files:
 alt + Escape
